@@ -29,17 +29,17 @@ section { display: flex; }
   cursor: pointer;
   border: none;
   border-radius: 3px;
-  padding: 6px 12px 6px 12px;
+  padding: 6px 12px;
   line-height: 1.4;
 }
 
 .btn-default {
-  color: white;
+  color: #ffffff;
   background-color: #faa541;
 }
 
 .btn-primary {
-  color: white;
+  color: #ffffff;
   background-color: #364147;
 }
 
