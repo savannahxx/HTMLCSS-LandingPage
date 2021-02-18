@@ -135,13 +135,13 @@ section { display: flex; }
   background-image: url('../img/hero.jpg');
   background-size: cover;
   height: 400px;
-  background-position: center;
+  background-position: center center;
   text-transform: uppercase;
 }
 
 .hero h1 {
   position: relative;
-  margin-left: -30px;
+  left: -30px;
 }
 
 .hero h2 {
